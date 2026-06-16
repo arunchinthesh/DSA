@@ -1,3 +1,5 @@
+//Prob 1 : Write a program that takes an integer, then a string, then a char from the user and prints them in the screen.
+
 import java.util.*;
 class InputOutput{
   public static void main(String[] args){
