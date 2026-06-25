@@ -38,7 +38,7 @@ public class DimondRain {
         for(int j=1;j<=i-1;j++){
             System.out.print(" ");    
         }
-        for(int j=1;j<=(3*2+1)-2*i;j++){
+        for(int j=1;j<=(n*2+1)-2*i;j++){
             System.out.print("*");
         }
         System.out.println();
