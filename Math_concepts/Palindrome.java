@@ -1,5 +1,5 @@
 //use Math.abs(n) for negative value.
-class Palindrome {
+class Palindrome{
     public boolean isPalindrome(int n) {
         n=Math.abs(n);
         int rev=0;
