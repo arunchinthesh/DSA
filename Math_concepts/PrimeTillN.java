@@ -1,4 +1,5 @@
 //Write a program that gets n as input and print all the prime numbers till that number.
+//Always start from 2....1 IS NOT PRIME
 class Main {
     public static void main(String[] args) {
 int n=10;
