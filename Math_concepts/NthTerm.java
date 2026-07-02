@@ -11,6 +11,5 @@ class NthTerm {
             sum+=i;
         }
         return sum;
-        
-    }
+         }
 }
